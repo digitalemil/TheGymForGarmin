@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="13" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="14" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="15" pc="268435520" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="16" pc="268435544" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="17" pc="268435567" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="18" pc="268435591" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="19" pc="268435614" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="4" lineNum="20" pc="268435638" symbol="onLayout"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="5" lineNum="23" pc="268435662" symbol="updateHR"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="5" lineNum="24" pc="268435666" symbol="updateHR"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="5" lineNum="25" pc="268435689" symbol="updateHR"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="5" lineNum="26" pc="268435715" symbol="updateHR"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="6" lineNum="30" pc="268435735" symbol="updateLocation"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="6" lineNum="31" pc="268435739" symbol="updateLocation"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="6" lineNum="32" pc="268435788" symbol="updateLocation"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="6" lineNum="33" pc="268435814" symbol="updateLocation"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="6" lineNum="34" pc="268435840" symbol="updateLocation"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="7" lineNum="41" pc="268435860" symbol="onShow"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="8" lineNum="45" pc="268435865" symbol="onUpdate"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="8" lineNum="47" pc="268435869" symbol="onUpdate"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymView.mc" id="9" lineNum="53" pc="268435890" symbol="onHide"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="11" lineNum="19" pc="268435895" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="11" lineNum="20" pc="268435899" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="12" lineNum="24" pc="268435918" symbol="onStart"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="12" lineNum="25" pc="268435922" symbol="onStart"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="12" lineNum="26" pc="268435934" symbol="onStart"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="12" lineNum="28" pc="268435946" symbol="onStart"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="13" lineNum="33" pc="268435979" symbol="onStop"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="14" lineNum="37" pc="268435984" symbol="getInitialView"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="14" lineNum="38" pc="268435988" symbol="getInitialView"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="14" lineNum="41" pc="268436018" symbol="getInitialView"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="15" lineNum="44" pc="268436072" symbol="initializePositionListener"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="15" lineNum="45" pc="268436076" symbol="initializePositionListener"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="16" lineNum="48" pc="268436125" symbol="onPosition"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="16" lineNum="49" pc="268436129" symbol="onPosition"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="16" lineNum="50" pc="268436158" symbol="onPosition"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="16" lineNum="51" pc="268436183" symbol="onPosition"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="16" lineNum="52" pc="268436229" symbol="onPosition"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="17" lineNum="57" pc="268436245" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="17" lineNum="59" pc="268436249" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="17" lineNum="60" pc="268436291" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="18" lineNum="64" pc="268436324" symbol="onSensor"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="18" lineNum="65" pc="268436328" symbol="onSensor"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="18" lineNum="66" pc="268436344" symbol="onSensor"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="18" lineNum="67" pc="268436373" symbol="onSensor"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="18" lineNum="68" pc="268436399" symbol="onSensor"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="19" lineNum="74" pc="268436415" symbol="getOAuthToken"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="19" lineNum="75" pc="268436419" symbol="getOAuthToken"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="19" lineNum="79" pc="268436426" symbol="getOAuthToken"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="19" lineNum="87" pc="268436501" symbol="getOAuthToken"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="19" lineNum="94" pc="268436573" symbol="getOAuthToken"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="98" pc="268436597" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="99" pc="268436601" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="100" pc="268436624" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="103" pc="268436644" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="104" pc="268436657" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="105" pc="268436676" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="20" lineNum="106" pc="268436695" symbol="onOAuthMessage"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="21" lineNum="113" pc="268436743" symbol="onReceive"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="21" lineNum="114" pc="268436747" symbol="onReceive"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="122" pc="268436762" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="123" pc="268436766" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="125" pc="268436773" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="127" pc="268436794" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="128" pc="268436807" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="131" pc="268436826" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="132" pc="268436839" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="133" pc="268436861" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="135" pc="268436886" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="141" pc="268436924" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="149" pc="268437006" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="152" pc="268437024" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="6" pc="268437063" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="7" pc="268437067" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="10" pc="268437086" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="11" pc="268437090" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="12" pc="268437101" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="13" pc="268437125" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="14" pc="268437136" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="5" pc="268437161" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="6" pc="268437165" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="9" pc="268437184" symbol="onMenu"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="10" pc="268437188" symbol="onMenu"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="11" pc="268437272" symbol="onMenu"/>
+        <entry filename="Rez" id="34" lineNum="16" pc="268437276" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="18" pc="268437288" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="19" pc="268437400" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="20" pc="268437440" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="21" pc="268437605" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="22" pc="268437770" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="24" pc="268437935" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="37" pc="268437983" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="38" pc="268437987" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="39" pc="268438005" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="40" pc="268438061" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="31" method="true" symbol="initializePositionListener"/>
+        <entry field="true" id="8389306" symbol="lon"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="35" method="true" symbol="getOAuthToken"/>
+        <entry field="true" id="21" symbol="id_thegym"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="36" method="true" symbol="onOAuthMessage"/>
+        <entry id="23" object="true" symbol="MainMenu"/>
+        <entry field="true" id="30" symbol="location"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8389305" symbol="lat"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="18" method="true" symbol="updateLocation"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="24" method="true" symbol="MainLayout"/>
+        <entry id="34" method="true" symbol="onSensor"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="28" symbol="AppName"/>
+        <entry id="15" object="true" symbol="TheGymDelegate"/>
+        <entry field="true" id="29" symbol="view"/>
+        <entry id="38" method="true" symbol="makeRequest"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry field="true" id="12" symbol="OAUTH_ERROR"/>
+        <entry id="9" object="true" symbol="TheGymView"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="40" symbol="item_2"/>
+        <entry id="39" symbol="item_1"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry id="14" object="true" symbol="TheGymMenuDelegate"/>
+        <entry id="17" method="true" symbol="updateHR"/>
+        <entry field="true" id="26" symbol="menu_label_2"/>
+        <entry field="true" id="25" symbol="menu_label_1"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry id="13" object="true" symbol="TheGymApp"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="11" symbol="OAUTH_CODE"/>
+        <entry field="true" id="10" symbol="CLIENT_ID"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="32" method="true" symbol="onPosition"/>
+        <entry id="19" module="true" symbol="Layouts"/>
+        <entry field="true" id="27" symbol="prompt"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="33" method="true" symbol="sensorInitialize"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry field="true" id="16" symbol="hr"/>
+        <entry id="37" method="true" symbol="onReceive"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435662" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435735" name="text" stackId="1" startPc="268435662"/>
+        <entry endPc="268435860" name="lonText" stackId="1" startPc="268435735"/>
+        <entry endPc="268435860" name="latText" stackId="2" startPc="268435735"/>
+        <entry endPc="268435890" name="dc" stackId="1" startPc="268435865"/>
+        <entry endPc="268435979" name="state" stackId="1" startPc="268435918"/>
+        <entry endPc="268435984" name="state" stackId="1" startPc="268435979"/>
+        <entry endPc="268436245" name="info" stackId="1" startPc="268436125"/>
+        <entry endPc="268436415" name="sensorInfo" stackId="1" startPc="268436324"/>
+        <entry endPc="268436596" name="status" stackId="1" startPc="268436419"/>
+        <entry endPc="268436596" name="params" stackId="2" startPc="268436419"/>
+        <entry endPc="268436739" name="error" stackId="3" startPc="268436657"/>
+        <entry endPc="268436739" name="code" stackId="2" startPc="268436657"/>
+        <entry endPc="268436743" name="message" stackId="1" startPc="268436597"/>
+        <entry endPc="268436762" name="responseCode" stackId="1" startPc="268436743"/>
+        <entry endPc="268436762" name="data" stackId="2" startPc="268436743"/>
+        <entry endPc="268437062" name="options" stackId="6" startPc="268436766"/>
+        <entry endPc="268437062" name="url" stackId="1" startPc="268436766"/>
+        <entry endPc="268437062" name="hs" stackId="2" startPc="268436766"/>
+        <entry endPc="268437062" name="responseCallback" stackId="7" startPc="268436766"/>
+        <entry endPc="268437062" name="lons" stackId="3" startPc="268436766"/>
+        <entry endPc="268437062" name="params" stackId="5" startPc="268436766"/>
+        <entry endPc="268437062" name="lats" stackId="4" startPc="268436766"/>
+        <entry endPc="268437161" name="item" stackId="1" startPc="268437086"/>
+        <entry endPc="268437982" name="rez_cmp_local_text_lon" stackId="4" startPc="268437288"/>
+        <entry endPc="268437982" name="rez_cmp_local_text_hr" stackId="3" startPc="268437288"/>
+        <entry endPc="268437982" name="rez_cmp_local_text_lat" stackId="5" startPc="268437288"/>
+        <entry endPc="268437982" name="rez_cmp_local_bitmap_id_thegym" stackId="2" startPc="268437288"/>
+        <entry endPc="268437983" name="dc" stackId="1" startPc="268437276"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="222" parentId="globals" symbolId="TheGymView" type="class"/>
+        <dataEntry offset="341" parentId="globals" symbolId="TheGymDelegate" type="class"/>
+        <dataEntry offset="396" parentId="globals" symbolId="TheGymMenuDelegate" type="class"/>
+        <dataEntry offset="451" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="530" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="616" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="663" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="694" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="733" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="764" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="827" parentId="globals" symbolId="TheGymApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="TheGymView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="TheGymView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateHR" parent="TheGymView">
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateLocation" parent="TheGymView">
+            <param id="lonText"/>
+            <param id="latText"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TheGymView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TheGymView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TheGymView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TheGymApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TheGymApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initializePositionListener" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="TheGymApp">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sensorInitialize" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSensor" parent="TheGymApp">
+            <param id="sensorInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getOAuthToken" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onOAuthMessage" parent="TheGymApp">
+            <param id="message"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="TheGymApp">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeRequest" parent="TheGymApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TheGymMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="TheGymMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TheGymDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="TheGymDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
