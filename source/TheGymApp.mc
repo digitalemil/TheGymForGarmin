@@ -122,7 +122,7 @@ function onOAuthMessage(message) {
    function makeRequest() {
    	var user= "";
    	var password= "";
-       var url = "https://"+user+":"+password+"@thegym-263112.appspot.com/data";
+    var url = "https://thegym-263112.appspot.com/data";
                                 // set the url
 	//System.print("make Request: "+url);
 	var hs="---", lons="---", lats="---";
@@ -138,10 +138,14 @@ function onOAuthMessage(message) {
        var params = {                                              // set the parameters
               "hr" => hs,
               "lon" => lons,
-              "lat" => lats
+              "lat" => lats,
+              "user" => user,
+              "password" => password
        };
 
-       var options = {                                             // set the options
+       var options = {  
+       	//	:headers => { "Authorization" => "Basic " + StringUtil.encodeBase64(Lang.format("$1$:$2$", [ user, password ]))}, 
+       		                                          // set the options
            :method => Communications.HTTP_REQUEST_METHOD_GET,      // set HTTP method
            :headers => {                                           // set headers
                    "Content-Type" => Communications.REQUEST_CONTENT_TYPE_URL_ENCODED},
