@@ -65,39 +65,42 @@
         <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="21" lineNum="114" pc="268436747" symbol="onReceive"/>
         <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="122" pc="268436762" symbol="makeRequest"/>
         <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="123" pc="268436766" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="125" pc="268436773" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="127" pc="268436794" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="128" pc="268436807" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="131" pc="268436826" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="132" pc="268436839" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="133" pc="268436861" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="135" pc="268436886" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="141" pc="268436924" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="149" pc="268437006" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="152" pc="268437024" symbol="makeRequest"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="6" pc="268437063" symbol="initialize"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="7" pc="268437067" symbol="initialize"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="10" pc="268437086" symbol="onMenuItem"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="11" pc="268437090" symbol="onMenuItem"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="12" pc="268437101" symbol="onMenuItem"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="13" pc="268437125" symbol="onMenuItem"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="14" pc="268437136" symbol="onMenuItem"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="5" pc="268437161" symbol="initialize"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="6" pc="268437165" symbol="initialize"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="9" pc="268437184" symbol="onMenu"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="10" pc="268437188" symbol="onMenu"/>
-        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="11" pc="268437272" symbol="onMenu"/>
-        <entry filename="Rez" id="34" lineNum="16" pc="268437276" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="18" pc="268437288" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="19" pc="268437400" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="20" pc="268437440" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="21" pc="268437605" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="22" pc="268437770" symbol="MainLayout"/>
-        <entry filename="Rez" id="34" lineNum="24" pc="268437935" symbol="MainLayout"/>
-        <entry filename="Rez" id="37" lineNum="37" pc="268437983" symbol="initialize"/>
-        <entry filename="Rez" id="37" lineNum="38" pc="268437987" symbol="initialize"/>
-        <entry filename="Rez" id="37" lineNum="39" pc="268438005" symbol="initialize"/>
-        <entry filename="Rez" id="37" lineNum="40" pc="268438061" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="124" pc="268436773" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="125" pc="268436780" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="128" pc="268436805" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="130" pc="268436826" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="131" pc="268436839" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="134" pc="268436858" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="135" pc="268436871" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="136" pc="268436893" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="138" pc="268436918" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="144" pc="268436956" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="152" pc="268437038" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymApp.mc" id="22" lineNum="155" pc="268437056" symbol="makeRequest"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="6" pc="268437095" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="24" lineNum="7" pc="268437099" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="10" pc="268437118" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="11" pc="268437122" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="12" pc="268437133" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="13" pc="268437157" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymMenuDelegate.mc" id="25" lineNum="14" pc="268437168" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="5" pc="268437193" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="27" lineNum="6" pc="268437197" symbol="initialize"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="9" pc="268437216" symbol="onMenu"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="10" pc="268437220" symbol="onMenu"/>
+        <entry filename="/Users/emil/Dropbox/digitalemil/projects/eclipse-workspace/TheGym/source/TheGymDelegate.mc" id="28" lineNum="11" pc="268437304" symbol="onMenu"/>
+        <entry filename="Rez" id="34" lineNum="16" pc="268437308" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="18" pc="268437320" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="20" pc="268437333" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="21" pc="268437445" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="22" pc="268437482" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="23" pc="268437650" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="24" pc="268437818" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="26" pc="268437986" symbol="MainLayout"/>
+        <entry filename="Rez" id="37" lineNum="39" pc="268438034" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="40" pc="268438038" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="41" pc="268438056" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="42" pc="268438112" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
@@ -185,19 +188,22 @@
         <entry endPc="268436743" name="message" stackId="1" startPc="268436597"/>
         <entry endPc="268436762" name="responseCode" stackId="1" startPc="268436743"/>
         <entry endPc="268436762" name="data" stackId="2" startPc="268436743"/>
-        <entry endPc="268437062" name="options" stackId="6" startPc="268436766"/>
-        <entry endPc="268437062" name="url" stackId="1" startPc="268436766"/>
-        <entry endPc="268437062" name="hs" stackId="2" startPc="268436766"/>
-        <entry endPc="268437062" name="responseCallback" stackId="7" startPc="268436766"/>
-        <entry endPc="268437062" name="lons" stackId="3" startPc="268436766"/>
-        <entry endPc="268437062" name="params" stackId="5" startPc="268436766"/>
-        <entry endPc="268437062" name="lats" stackId="4" startPc="268436766"/>
-        <entry endPc="268437161" name="item" stackId="1" startPc="268437086"/>
-        <entry endPc="268437982" name="rez_cmp_local_text_lon" stackId="4" startPc="268437288"/>
-        <entry endPc="268437982" name="rez_cmp_local_text_hr" stackId="3" startPc="268437288"/>
-        <entry endPc="268437982" name="rez_cmp_local_text_lat" stackId="5" startPc="268437288"/>
-        <entry endPc="268437982" name="rez_cmp_local_bitmap_id_thegym" stackId="2" startPc="268437288"/>
-        <entry endPc="268437983" name="dc" stackId="1" startPc="268437276"/>
+        <entry endPc="268437094" name="url" stackId="3" startPc="268436766"/>
+        <entry endPc="268437094" name="params" stackId="7" startPc="268436766"/>
+        <entry endPc="268437094" name="user" stackId="1" startPc="268436766"/>
+        <entry endPc="268437094" name="responseCallback" stackId="9" startPc="268436766"/>
+        <entry endPc="268437094" name="lats" stackId="6" startPc="268436766"/>
+        <entry endPc="268437094" name="lons" stackId="5" startPc="268436766"/>
+        <entry endPc="268437094" name="hs" stackId="4" startPc="268436766"/>
+        <entry endPc="268437094" name="password" stackId="2" startPc="268436766"/>
+        <entry endPc="268437094" name="options" stackId="8" startPc="268436766"/>
+        <entry endPc="268437193" name="item" stackId="1" startPc="268437118"/>
+        <entry endPc="268438033" name="rez_cmp_local_text_lon" stackId="5" startPc="268437320"/>
+        <entry endPc="268438033" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437320"/>
+        <entry endPc="268438033" name="rez_cmp_local_text_hr" stackId="4" startPc="268437320"/>
+        <entry endPc="268438033" name="rez_cmp_local_text_lat" stackId="6" startPc="268437320"/>
+        <entry endPc="268438033" name="rez_cmp_local_bitmap_id_thegym" stackId="3" startPc="268437320"/>
+        <entry endPc="268438034" name="dc" stackId="1" startPc="268437308"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>

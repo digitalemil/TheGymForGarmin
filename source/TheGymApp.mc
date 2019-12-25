@@ -120,7 +120,10 @@ function onOAuthMessage(message) {
    }
 
    function makeRequest() {
-       var url = "https://thegym-263112.appspot.com/data";                         // set the url
+   	var user= "";
+   	var password= "";
+       var url = "https://"+user+":"+password+"@thegym-263112.appspot.com/data";
+                                // set the url
 	//System.print("make Request: "+url);
 	var hs="---", lons="---", lats="---";
 	
